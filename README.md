@@ -1,6 +1,6 @@
-# helloworld
+# DevQuiz
 
-A new Flutter project.
+Projeto desenvolvido por mim usando o framework Flutter da linguagem Dart. Foi desenvolvido como atividade prática durante a NLW#05, ministrada por Gabul DEV!
 
 ## Getting Started
 
